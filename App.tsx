@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import { User, Coin, Transaction, TransactionStatus, KYCStatus, AppSettings } from './types';
 import { MOCK_USER, INITIAL_COINS } from './constants';
-import UserDashboard from './src/views/UserDashboard';
+import UserDashboard from './src/views/UserDashboard/";
 import Trade from './views/Trade';
 import Wallet from './views/Wallet';
 import Profile from './views/Profile';
