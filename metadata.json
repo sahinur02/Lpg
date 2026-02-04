@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Iconic Trade - Crypto Wallet & Exchange",
+  "description": "A premium cryptocurrency wallet and trading platform with integrated KYC, wallet management, trading features, and a robust admin panel.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
